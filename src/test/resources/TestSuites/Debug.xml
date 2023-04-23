@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Debug" verbose="1">
+	<test name="ExceptionsTests">
+		<parameter name="browser" value="Chrome"></parameter>
+		<classes>
+			<class name="practice.automation.RSHAA.Emergency_Case_Conversion">
+				<methods>
+					<include name="rashaaTest"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+
+
+</suite>
